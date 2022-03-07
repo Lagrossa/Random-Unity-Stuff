@@ -6,11 +6,11 @@ A bunch of random, Unity scripts.
 
 Projects inspired by one of the Freya Holmer units in the Math for Game Devs series.
 
-[BezManager](https://github.com/Lagrossa/Random-Unity-Stuff/blob/main/BezManager.cs)
-[LookinAt](https://github.com/Lagrossa/Random-Unity-Stuff/blob/main/LookinAt.cs)
-[RadialTrigger](https://github.com/Lagrossa/Random-Unity-Stuff/blob/main/RadialTrigger.cs)
-[SpaceTrans](https://github.com/Lagrossa/Random-Unity-Stuff/blob/main/SpaceTrans.cs)
-[fourptbez](https://github.com/Lagrossa/Random-Unity-Stuff/blob/main/fourptbez.cs)
+- [BezManager](https://github.com/Lagrossa/Random-Unity-Stuff/blob/main/BezManager.cs)
+- [LookinAt](https://github.com/Lagrossa/Random-Unity-Stuff/blob/main/LookinAt.cs)
+- [RadialTrigger](https://github.com/Lagrossa/Random-Unity-Stuff/blob/main/RadialTrigger.cs)
+- [SpaceTrans](https://github.com/Lagrossa/Random-Unity-Stuff/blob/main/SpaceTrans.cs)
+- [fourptbez](https://github.com/Lagrossa/Random-Unity-Stuff/blob/main/fourptbez.cs)
 
 
 ### Projects Explanation
