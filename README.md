@@ -11,7 +11,7 @@ Projects inspired by one of the Freya Holmer units in the Math for Game Devs ser
 - [RadialTrigger](https://github.com/Lagrossa/Random-Unity-Stuff/blob/main/RadialTrigger.cs)
 - [SpaceTrans](https://github.com/Lagrossa/Random-Unity-Stuff/blob/main/SpaceTrans.cs)
 - [fourptbez](https://github.com/Lagrossa/Random-Unity-Stuff/blob/main/fourptbez.cs)
-
+- [TrigShapeDrawer](https://github.com/Lagrossa/Random-Unity-Stuff/blob/main/TriggConfusion.cs)
 
 ### Projects Explanation
 
