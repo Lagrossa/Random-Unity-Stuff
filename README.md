@@ -33,6 +33,6 @@ So on...
 
 Eventually the polygon rounds out into a circle (From what I observed, at about 16 sides does the regular polygon become a 'circle'.) This is achieved by creating a for loop with the amount of sides and then normalizing it into a unit, in my case TAU (because it's less confusing than PI). I explained this a bit in the code itself. Anyway, by multiplying the t value (lerp) by TAU I am able to effectively get my angle in radians. Using that angle, I can get an x and a y value. The x coordinate is achieved through plugging the angle into the cosine function and y is achieved by plugging the angle into the sine function. While I draw out the circle I add all of the points into an arraylist and then use that arraylist to create different patterns.
 
-![final_628e297c2494ba12847b7786_906321](https://user-images.githubusercontent.com/65159359/170362528-66c58b46-9e5f-49c4-98a7-50474ff8c024.gif)
+![Example](https://user-images.githubusercontent.com/65159359/170362528-66c58b46-9e5f-49c4-98a7-50474ff8c024.gif)
 
 The patterns work better when the circle has an odd number of points, otherwise (if there is an offset of 0 and it is even) then it will simply make a smaller version of the circle which expands into a larger one. When the points are odd and with an offset of 0, the points seem to contort a bit and do not return to their initial position.
