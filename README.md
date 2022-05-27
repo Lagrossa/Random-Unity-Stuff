@@ -45,7 +45,7 @@ Or this....
 
 <img src="https://user-images.githubusercontent.com/65159359/170666402-bd7ccba3-740d-4a01-8ff2-7162dd95d5e2.gif" data-canonical-src="https://user-images.githubusercontent.com/65159359/170666402-bd7ccba3-740d-4a01-8ff2-7162dd95d5e2.gif" width="600" height="400" />
 
-###### Vectors and Angles [1 1/2](https://github.com/Lagrossa/Random-Unity-Stuff/blob/main/trigPractice.cs)
+###### Vectors and Angles [1.5](https://github.com/Lagrossa/Random-Unity-Stuff/blob/main/AVPRACTICE.cs)
 
 I also was able to create a similar program and use Atan2 to convert from any given vector to an angle. This of course, lets me calculate and draw the angle from 0 to the vector, as you would traditionally see in geometry. In this 'experiment' I start with an angle of 0 and increase it to 360 degrees ( a full circle ). By drawing the inverse of the angle, similar shapes start to appear from when I was connecting points across the circle.
 
